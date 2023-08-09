@@ -1,0 +1,7 @@
+Flask
+pandas-profiling
+pandas
+
+# pip install Flask 
+# pip install pandas-profiling
+# pip install pandas

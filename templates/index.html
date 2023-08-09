@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DataViz</title>
+</head>
+<body>
+    <h1>File Upload and Profiling</h1>
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Upload">
+    </form>
+
+    {% if uploaded %}
+    <h2>Profile Report:</h2>
+    {{ profile_html|safe }}
+    {% endif %}
+</body>
+</html>
