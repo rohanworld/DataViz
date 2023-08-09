@@ -3,6 +3,9 @@
 
 Dynamic data visualization and profiling tool designed for preliminary EDA
 
+## DEMO
+[![Try In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1g3izM1V45OeA3xdRW4qcGkX9Xd7ZJhXQ?usp=sharing)
+
 
 ## Features
 
